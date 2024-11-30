@@ -1,0 +1,8 @@
+# Compiler files
+cache/
+out/
+lib/
+
+# Dotenv file
+.env
+.DS_Store
